@@ -1,8 +1,31 @@
 from pathlib import Path
 import json
+import os
 
 import faiss
-from sentence_transformers import SentenceTransformer
+import numpy as np
+from dotenv import load_dotenv
+from google import genai
+from google.genai import types
+
+
+# ---------------------------------------
+# LOAD ENVIRONMENT
+# ---------------------------------------
+
+load_dotenv()
+
+API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not API_KEY:
+    raise ValueError(
+        "GEMINI_API_KEY not found in environment variables."
+    )
+
+
+client = genai.Client(
+    api_key=API_KEY
+)
 
 
 # ---------------------------------------
@@ -18,16 +41,21 @@ METADATA_PATH = VECTOR_DIR / "metadata.json"
 
 
 # ---------------------------------------
-# LOAD MODEL
+# EMBEDDING MODEL
 # ---------------------------------------
 
-print("Loading embedding model...")
+EMBEDDING_MODEL = "gemini-embedding-2"
+EMBEDDING_DIMENSION = 768
 
-model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
+print("Loading Gemini embedding system...")
+
+print(
+    f"Model: {EMBEDDING_MODEL}"
 )
 
-print("Model loaded.")
+print(
+    f"Dimension: {EMBEDDING_DIMENSION}"
+)
 
 
 # ---------------------------------------
@@ -52,7 +80,9 @@ with open(
     metadata = json.load(f)
 
 
-print(f"Loaded {index.ntotal} vectors.")
+print(
+    f"Loaded {index.ntotal} vectors."
+)
 
 
 # ---------------------------------------
@@ -61,19 +91,46 @@ print(f"Loaded {index.ntotal} vectors.")
 
 def search(query, top_k=3):
 
-    # Convert question into embedding
+    # -----------------------------------
+    # CREATE GEMINI QUERY EMBEDDING
+    # -----------------------------------
 
-    query_embedding = model.encode(
-        [query],
-        normalize_embeddings=True
+    result = client.models.embed_content(
+        model=EMBEDDING_MODEL,
+        contents=[query],
+        config=types.EmbedContentConfig(
+            output_dimensionality=EMBEDDING_DIMENSION
+        )
     )
 
-    # Search FAISS
+    query_embedding = np.array(
+        [
+            result.embeddings[0].values
+        ],
+        dtype="float32"
+    )
+
+    # Normalize for cosine similarity
+    # using FAISS Inner Product
+
+    faiss.normalize_L2(
+        query_embedding
+    )
+
+
+    # -----------------------------------
+    # SEARCH FAISS
+    # -----------------------------------
 
     scores, indices = index.search(
         query_embedding,
         top_k
     )
+
+
+    # -----------------------------------
+    # BUILD RESULTS
+    # -----------------------------------
 
     results = []
 
@@ -90,6 +147,7 @@ def search(query, top_k=3):
         result["score"] = float(score)
 
         results.append(result)
+
 
     return results
 
@@ -112,12 +170,17 @@ while True:
     if query.lower() == "exit":
         break
 
+
     results = search(
         query,
         top_k=5
     )
 
-    print("\n----- RETRIEVED RESULTS -----")
+
+    print(
+        "\n----- RETRIEVED RESULTS -----"
+    )
+
 
     for i, result in enumerate(
         results,

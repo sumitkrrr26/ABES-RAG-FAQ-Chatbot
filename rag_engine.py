@@ -1,9 +1,12 @@
 from pathlib import Path
 import json
-import faiss
 
-from sentence_transformers import SentenceTransformer
+import faiss
+import numpy as np
+
 from google import genai
+from google.genai import types
+
 from dotenv import load_dotenv
 
 
@@ -19,6 +22,10 @@ load_dotenv()
 # ==========================================
 
 MODEL_NAME = "gemini-3.6-flash"
+
+EMBEDDING_MODEL = "gemini-embedding-2"
+
+EMBEDDING_DIMENSION = 768
 
 client = genai.Client()
 
@@ -36,19 +43,10 @@ METADATA_PATH = VECTOR_DIR / "metadata.json"
 
 
 # ==========================================
-# LOAD EMBEDDING MODEL
-# ==========================================
-
-print("Loading embedding model...")
-
-embedding_model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
-)
-
-
-# ==========================================
 # LOAD FAISS INDEX
 # ==========================================
+
+print("Loading FAISS index...")
 
 index = faiss.read_index(
     str(INDEX_PATH)
@@ -68,7 +66,9 @@ with open(
     metadata = json.load(f)
 
 
-print(f"Loaded {index.ntotal} vectors.")
+print(
+    f"Loaded {index.ntotal} vectors."
+)
 
 
 # ==========================================
@@ -81,14 +81,44 @@ MIN_SCORE = 0.30
 
 
 # ==========================================
+# CREATE QUERY EMBEDDING
+# ==========================================
+
+def create_query_embedding(query):
+
+    result = client.models.embed_content(
+        model=EMBEDDING_MODEL,
+        contents=query,
+        config=types.EmbedContentConfig(
+            output_dimensionality=EMBEDDING_DIMENSION
+        )
+    )
+
+    query_embedding = np.array(
+        [
+            result.embeddings[0].values
+        ],
+        dtype="float32"
+    )
+
+    # Normalize because FAISS uses
+    # Inner Product for cosine similarity.
+
+    faiss.normalize_L2(
+        query_embedding
+    )
+
+    return query_embedding
+
+
+# ==========================================
 # RETRIEVAL
 # ==========================================
 
 def retrieve(query):
 
-    query_embedding = embedding_model.encode(
-        [query],
-        normalize_embeddings=True
+    query_embedding = create_query_embedding(
+        query
     )
 
     scores, indices = index.search(
@@ -161,8 +191,15 @@ def build_history(history):
 
     for message in history[-6:]:
 
-        role = message.get("role", "")
-        content = message.get("content", "")
+        role = message.get(
+            "role",
+            ""
+        )
+
+        content = message.get(
+            "content",
+            ""
+        )
 
         if role == "user":
 
@@ -176,7 +213,9 @@ def build_history(history):
                 f"Assistant: {content}"
             )
 
-    return "\n".join(history_text)
+    return "\n".join(
+        history_text
+    )
 
 
 # ==========================================
@@ -230,7 +269,9 @@ the student's current question. College-specific facts
 must still come from the retrieved documents.
 """
 
-    history_text = build_history(history)
+    history_text = build_history(
+        history
+    )
 
     prompt = f"""
 You are answering a student's question about ABES Engineering College.
@@ -285,7 +326,10 @@ Source:
 # COMPLETE RAG QUESTION
 # ==========================================
 
-def answer_question(question, history=None):
+def answer_question(
+    question,
+    history=None
+):
 
     # -------------------------------------------------
     # Build a context-aware retrieval query
@@ -301,10 +345,18 @@ def answer_question(question, history=None):
 
         for message in recent_history:
 
-            role = message.get("role", "")
-            content = message.get("content", "")
+            role = message.get(
+                "role",
+                ""
+            )
+
+            content = message.get(
+                "content",
+                ""
+            )
 
             if content:
+
                 history_text.append(
                     f"{role}: {content}"
                 )
@@ -323,7 +375,9 @@ def answer_question(question, history=None):
     # Retrieve relevant ABES documents
     # -------------------------------------------------
 
-    results = retrieve(retrieval_query)
+    results = retrieve(
+        retrieval_query
+    )
 
 
     # -------------------------------------------------
@@ -345,7 +399,9 @@ def answer_question(question, history=None):
     # Build RAG context
     # -------------------------------------------------
 
-    context = build_context(results)
+    context = build_context(
+        results
+    )
 
 
     # -------------------------------------------------
