@@ -1,0 +1,68 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | courses_offered.txt | Page 1
+ABES Engineering College - COURSES OFFERED
+SOURCE: https://www.abes.ac.in/courses-offered.html
+FETCHED: 2026-09-30
+CATEGORY: admission
+PROGRAMS AND SEATS (2026-27)
+B.Tech
+- Computer Science & Engineering: 900 (NBA accredited)
+- CSE (Artificial Intelligence and Machine Learning): 360
+- CSE (Data Science): 180
+- Electronics & Communication Engineering: 180 (NBA accredited)
+- Electrical and Computer Engineering: 120
+- Mechanical Engineering: 60 (NBA accredited)
+- CSE (Working Professional): 30
+- ECE (Working Professional): 30
+Department of Computer Application
+- MCA: 180
+- BCA: 120
+M.Tech
+- M.Tech CSE: 12
+- M.Tech ECE: 6
+Entrance exams: JEE (Main) 2026 for B.Tech; CUET (UG) 2026 for B.Tech lateral entry and BCA; CUET
+(PG) 2026 for MCA.
+ELIGIBILITY (as per UPTAC brochure 2026-27, subject to AKTU changes)
+- B.Tech 1st year (4 yrs): passed 10+2 with Physics/Mathematics/Chemistry/Computer
+Science/Electronics/IT/Biology/Informatics Practices/Biotechnology/Technical
+Vocational/Agriculture/Engineering Graphics/Business Studies/Entrepreneurship per table 1.3(a)
+(Annexure-1: https://abes.ac.in/pdf/Annexure-1.pdf); at least 45% (40% reserved category) in those
+subjects together. OR passed D.Voc. in same/allied sector. Bridge courses are offered to students from
+diverse backgrounds.
+- B.Tech Lateral Entry (2nd year, 3 yrs): diploma (3 yrs / 2 yrs lateral) with at least 45% (40% SC/ST) in
+any engineering branch except Agriculture Engg., Pharmacy, Architecture, from a BTEUP-recognized
+institution or equivalent; OR B.Sc. from a UGC-recognized university with at least 45% (40% SC/ST) and
+10+2 with Mathematics (allotted if seats remain after diploma students); OR D.Voc.
+- BCA (3 yrs): 10+2 in any stream.
+- M.Tech (2 yrs): bachelor's degree or equivalent with at least 50% (45% reserved category).
+- MCA (2 yrs): BCA / B.Sc. (CS) / B.Sc. (IT) / B.E. or B.Tech (CSE/IT) or equivalent; OR any graduation
+with Mathematics at 10+2 or graduation level, at least 50% (45% SC/ST).
+COUNSELLING PRIORITY (AICTE Approval Process Handbook 2026-27)
+- B.Tech 1st yr: JEE Main (current year) candidates first, then merit in qualifying exam; or as per UP
+Govt./University directive.
+
+
+===== PAGE 2 =====
+
+ABES RAG dataset | courses_offered.txt | Page 2
+- Lateral entry: CUET UG current year first, then qualifying-exam merit.
+- M.Tech: GATE/GPAT/CEED merit first, then CUET PG, then institution exam/merit.
+- MCA: CUET PG / NTA first, then qualifying-exam merit.
+ADMISSION ENQUIRY NUMBERS
+- B.Tech 1st year (direct admission): 8448494111
+- B.Tech lateral 2nd year: 8448494111, 9582260302
+- BCA: 8448494111, 9582260302
+- MBA: 8448494111, 8851082003
+- MCA: 8448494111, 8860092369, 8860086492
+- M.Tech CSE: 9999889357; M.Tech ECE: 8860426655
+OTHER POLICIES ON THE PAGE
+- Refund: on cancellation of admission, fee is refunded as per UGC refund rules. On hostel withdrawal,
+only security, mess and laundry charges for unused months are refundable pro rata. Policy PDF:
+https://www.abes.ac.in/pdf/admissions/Fee Refund Policy for Newly Admitted Students for 2025-26.pdf
+- Anti-ragging (AICTE) PDF: https://www.abes.ac.in/pdf/admissions/anti-ragging.pdf
+- State/Central scholarship policy PDF:
+https://www.abes.ac.in/pdf/admissions/state-central-scholarship.pdf
+- PM-Vidyalaxmi scheme: https://pmvidyalaxmi.co.in/

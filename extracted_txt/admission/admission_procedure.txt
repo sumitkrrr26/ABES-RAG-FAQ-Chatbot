@@ -1,0 +1,36 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | admission_procedure.txt | Page 1
+ABES Engineering College - ADMISSION PROCEDURE
+SOURCE: https://www.abes.ac.in/courses-offered.html (2026-27 session) and
+https://abes.ac.in/admission-procedure.php (older 2024-25 wording, used for M.Tech and MCA details)
+FETCHED: 2026-09-30
+CATEGORY: admission
+B.TECH FIRST YEAR (2026-27)
+- 85% of approved intake through counselling based on JEE-2026 and AICTE/AKTU eligibility for 2026-27.
+Candidates follow www.aktu.ac.in, receive an allotment letter, then report to the allotted college on the
+given dates with fees and documents.
+- 15% through direct admission per AICTE/AKTU guidelines and college policy. Apply online at
+https://erp.abes.ac.in/onlineenquiry ; shortlisting on aggregate in the qualifying exam and JEE score/rank;
+then interview; seat offered on marks scored in test and interview.
+B.TECH LATERAL ENTRY (2024-25 wording)
+- Up to 10% of approved intake, supernumerary, plus unfilled first-year vacancies. Counselling based on
+CUET (UG). Direct admission: apply online, shortlisting on qualifying-exam aggregate and CUET
+score/rank, then test and interview.
+MCA (2024-25 wording)
+- 85% via counselling based on CUET (PG); 15% direct admission with shortlisting on qualifying-exam
+aggregate and CUET score/rank, then test and interview.
+M.TECH (2024-25 wording)
+- Counselling via AKTU entrance exam; direct admission per AICTE/AKTU guidelines and college policy.
+- Financial assistance: GATE-qualified candidates are eligible for AICTE/MHRD PG scholarship.
+Non-GATE candidates admitted directly get a stipend of Rs. 7,000 (1st year) and Rs. 8,000 (2nd year) per
+college policy, based on college-level selection. Financial support is also given for publishing research in
+journals and international conference proceedings.
+PRE-ENROLLMENT REGISTRATION CHARGES (direct admission, 2026-27)
+- Appeared for entrance exam/counselling: Rs. 1000 (General & OBC of UP / all categories outside UP);
+Rs. 500 (SC & ST of UP).
+- Not appeared: Rs. 2300 (General & OBC of UP / all outside UP); Rs. 1150 (SC & ST of UP).
+- Students allotted seats through counselling who already paid Rs. 20,000 or Rs. 12,000 as counselling fee
+pay only the remaining academic fee.

@@ -1,0 +1,32 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | documents_required.txt | Page 1
+ABES Engineering College - DOCUMENTS REQUIRED
+SOURCE: https://www.abes.ac.in/courses-offered.html (Documents Required)
+FETCHED: 2026-09-30
+CATEGORY: admission
+Bring two sets of self-attested photocopies plus originals (where stated) at final admission/reporting.
+- Demand Draft of academic fee (original); demand draft of hostel fee if opted (original); uniform fees (cash
+only); transport fee if opted (cash only).
+- University allotment letter: 2 copies (counselling candidates). Entrance exam result: 2 copies.
+- X marksheet and passing certificate; XII marksheet and passing certificate: 2 copies and original each.
+Undertaking AD01 if result awaited or marksheets/degree not available.
+- Diploma/graduation marksheets (all years) and PDC/Degree: 2 copies and original each.
+- Transfer Certificate (UP Board / UP Technical Board): 1 copy and original. Migration certificate (other
+boards/universities): 1 copy and original.
+- Character certificate: 1 copy and original.
+- Caste certificate (OBC certificate issued after 01.04.2025): 2 copies, only for SC/ST/OBC.
+- Income certificate (issued after 01.04.2025) or current-year ITR, if interested in any government
+scholarship: 2 copies. EWS income certificate: 2 copies (format:
+https://www.abes.ac.in/pdf/admissions/EWS Certificate.pdf).
+- Gap affidavit on Rs 10 stamp paper, if any: 1 copy and original.
+- Domicile certificate: 2 copies, needed if qualifying exam was passed outside UP but parents reside in UP.
+- Medical fitness certificate from CMO/registered doctor in prescribed format: 1 copy
+(https://www.abes.ac.in/pdf/medical certificate.pdf). Blood group test report: 1 copy.
+- Photos: 3 of candidate and 1 each of father and mother; write student name and branch on the back.
+- Aadhar card of self, father and mother: 2 copies.
+- Declaration/Undertaking RO-S21 (original) and Internet Use Undertaking CA-S1 (original).
+Note: keep one set of photocopies for personal/scholarship use. Originals are returned only after
+University verification.

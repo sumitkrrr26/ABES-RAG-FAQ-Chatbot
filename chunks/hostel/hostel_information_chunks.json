@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "hostel_information.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | hostel_information.txt | Page 1\nABES Engineering College - HOSTEL INFORMATION\nSOURCE: https://www.abes.ac.in/courses-offered.html (Hostel Fee Structure 2026-27)\nFETCHED: 2026-09-30\nCATEGORY: hostel\nBOYS HOSTEL (Rs. per year; all include registration Rs.500 and laundry Rs.3500 for 500 clothes/year)\n- Four seater: Non-AC lodging & boarding 127500, total without security 131500, total with Rs.5000\nrefundable security 136500. AC: 139000 / 143000 / 148000.\n- Triple seater: Non-AC 134000 / 138000 / 143000. AC: 155000 / 159000 / 164000.\n- Double seater: Non-AC 145500 / 149500 / 154500. AC: 168500 / 172500 / 177500.\nGIRLS HOSTEL (AC only)\n- Four seater:"
+  },
+  {
+    "chunk_id": 1,
+    "source": "hostel_information.txt",
+    "page": 1,
+    "text": "Non-AC 145500 / 149500 / 154500. AC: 168500 / 172500 / 177500.\nGIRLS HOSTEL (AC only)\n- Four seater: lodging & boarding 139000, total without security 143000, with security 148000.\n- Triple seater: 155000 / 159000 / 164000.\n- Double seater: 168500 / 172500 / 177500.\nSecurity: Rs.5000 refundable, one-time.\nTERMS\n- Room allotment first-come, first-served.\n- AC rooms allotted only on full occupancy of the room.\n- AC use 5:00 PM to 8:00 AM on working days and round-the-clock on holidays, subject to UPPCL power\nsupply.\n- Desert coolers are prohibited in the Girls' Hostel; allowed in the Boys' Hostel per college policy."
+  },
+  {
+    "chunk_id": 2,
+    "source": "hostel_information.txt",
+    "page": 1,
+    "text": "Desert coolers are prohibited in the Girls' Hostel; allowed in the Boys' Hostel per college policy.\n- Limited rooms with attached bathroom available for an extra Rs.10,000, shared equally among\nroommates.\n- On withdrawal from hostel, only security, mess and laundry charges for unused months are refunded pro\nrata."
+  }
+]

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>ABES AI FAQ Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+<div class="app">
+
+    <!-- ================= HEADER ================= -->
+
+    <header class="header">
+
+        <div class="brand">
+
+            <div class="logo">
+                A
+            </div>
+
+            <div>
+
+                <h1>
+                    ABES AI FAQ Assistant
+                </h1>
+
+                <p>
+                    College information assistant
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div class="header-actions">
+
+            <div class="status">
+
+                <span class="status-dot"></span>
+
+                Online
+
+            </div>
+
+
+            <button
+                id="clearButton"
+                class="clear-button"
+                type="button"
+            >
+                Clear Chat
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- ================= CHAT ================= -->
+
+    <main class="chat-container">
+
+        <div
+            id="chatMessages"
+            class="chat-messages"
+        >
+
+            <!-- Welcome message -->
+
+            <div class="message bot-message">
+
+                <div class="avatar bot-avatar">
+                    AI
+                </div>
+
+
+                <div class="message-content">
+
+                    <div class="message-name">
+                        ABES Assistant
+                    </div>
+
+
+                    <div class="message-bubble">
+
+                        <div class="welcome-title">
+                            Hello! 👋
+                        </div>
+
+                        <p>
+                            I'm the ABES AI FAQ Assistant.
+                        </p>
+
+                        <p>
+                            Ask me about ABES Engineering College,
+                            including admissions, courses, departments,
+                            hostel, placements, fees and more.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- Suggested questions -->
+
+            <div class="suggestions">
+
+                <div class="suggestions-title">
+                    Try asking
+                </div>
+
+
+                <div class="suggestion-buttons">
+
+                    <button
+                        class="suggestion"
+                        data-question="What courses are offered by ABES?"
+                    >
+                        🎓 Courses offered
+                    </button>
+
+
+                    <button
+                        class="suggestion"
+                        data-question="What is the CSE intake?"
+                    >
+                        💻 CSE intake
+                    </button>
+
+
+                    <button
+                        class="suggestion"
+                        data-question="What documents are required for admission?"
+                    >
+                        📄 Admission documents
+                    </button>
+
+
+                    <button
+                        class="suggestion"
+                        data-question="What hostel facilities are available?"
+                    >
+                        🏠 Hostel facilities
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <!-- ================= INPUT ================= -->
+
+    <footer class="input-area">
+
+        <div class="input-wrapper">
+
+            <textarea
+                id="questionInput"
+                placeholder="Ask a question about ABES..."
+                rows="1"
+                maxlength="1000"
+            ></textarea>
+
+
+            <button
+                id="sendButton"
+                type="button"
+                aria-label="Send message"
+            >
+                ➤
+            </button>
+
+        </div>
+
+
+        <div class="input-info">
+
+            <span>
+                Powered by RAG + Gemini
+            </span>
+
+            <span id="characterCount">
+                0 / 1000
+            </span>
+
+        </div>
+
+    </footer>
+
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

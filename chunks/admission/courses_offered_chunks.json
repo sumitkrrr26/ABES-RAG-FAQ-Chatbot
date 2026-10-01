@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | courses_offered.txt | Page 1\nABES Engineering College - COURSES OFFERED\nSOURCE: https://www.abes.ac.in/courses-offered.html\nFETCHED: 2026-09-30\nCATEGORY: admission\nPROGRAMS AND SEATS (2026-27)\nB.Tech\n- Computer Science & Engineering: 900 (NBA accredited)\n- CSE (Artificial Intelligence and Machine Learning): 360\n- CSE (Data Science): 180\n- Electronics & Communication Engineering: 180 (NBA accredited)\n- Electrical and Computer Engineering: 120\n- Mechanical Engineering: 60 (NBA accredited)\n- CSE (Working Professional): 30\n- ECE (Working Professional): 30\nDepartment of Computer Application\n- MCA: 180\n- BCA: 120\nM.Tech\n- M.Tech CSE: 12\n- M.Tech ECE: 6\nEntrance exams:"
+  },
+  {
+    "chunk_id": 1,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "f Computer Application\n- MCA: 180\n- BCA: 120\nM.Tech\n- M.Tech CSE: 12\n- M.Tech ECE: 6\nEntrance exams: JEE (Main) 2026 for B.Tech; CUET (UG) 2026 for B.Tech lateral entry and BCA; CUET\n(PG) 2026 for MCA.\nELIGIBILITY (as per UPTAC brochure 2026-27, subject to AKTU changes)\n- B.Tech 1st year (4 yrs): passed 10+2 with Physics/Mathematics/Chemistry/Computer\nScience/Electronics/IT/Biology/Informatics Practices/Biotechnology/Technical\nVocational/Agriculture/Engineering Graphics/Business Studies/Entrepreneurship per table 1.3(a)\n(Annexure-1: https://abes.ac.in/pdf/Annexure-1.pdf); at least 45% (40% reserved category) in those\nsubjects together. OR passed D.Voc. in same/allied sector."
+  },
+  {
+    "chunk_id": 2,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "east 45% (40% reserved category) in those\nsubjects together. OR passed D.Voc. in same/allied sector. Bridge courses are offered to students from\ndiverse backgrounds.\n- B.Tech Lateral Entry (2nd year, 3 yrs): diploma (3 yrs / 2 yrs lateral) with at least 45% (40% SC/ST) in\nany engineering branch except Agriculture Engg., Pharmacy, Architecture, from a BTEUP-recognized\ninstitution or equivalent; OR B.Sc. from a UGC-recognized university with at least 45% (40% SC/ST) and\n10+2 with Mathematics (allotted if seats remain after diploma students); OR D.Voc.\n- BCA (3 yrs): 10+2 in any stream.\n- M.Tech (2 yrs): bachelor's degree or equivalent with at least 50% (45% reserved category).\n- MCA (2 yrs):"
+  },
+  {
+    "chunk_id": 3,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "h (2 yrs): bachelor's degree or equivalent with at least 50% (45% reserved category).\n- MCA (2 yrs): BCA / B.Sc. (CS) / B.Sc. (IT) / B.E. or B.Tech (CSE/IT) or equivalent; OR any graduation\nwith Mathematics at 10+2 or graduation level, at least 50% (45% SC/ST).\nCOUNSELLING PRIORITY (AICTE Approval Process Handbook 2026-27)\n- B.Tech 1st yr: JEE Main (current year) candidates first, then merit in qualifying exam; or as per UP\nGovt./University directive."
+  },
+  {
+    "chunk_id": 4,
+    "source": "courses_offered.txt",
+    "page": 2,
+    "text": "ABES RAG dataset | courses_offered.txt | Page 2\n- Lateral entry: CUET UG current year first, then qualifying-exam merit.\n- M.Tech: GATE/GPAT/CEED merit first, then CUET PG, then institution exam/merit.\n- MCA: CUET PG / NTA first, then qualifying-exam merit.\nADMISSION ENQUIRY NUMBERS\n- B.Tech 1st year (direct admission): 8448494111\n- B.Tech lateral 2nd year: 8448494111, 9582260302\n- BCA: 8448494111, 9582260302\n- MBA: 8448494111, 8851082003\n- MCA: 8448494111, 8860092369, 8860086492\n- M.Tech CSE: 9999889357; M.Tech ECE: 8860426655\nOTHER POLICIES ON THE PAGE\n- Refund: on cancellation of admission, fee is refunded as per UGC refund rules. On hostel withdrawal,"
+  },
+  {
+    "chunk_id": 5,
+    "source": "courses_offered.txt",
+    "page": 2,
+    "text": "Refund: on cancellation of admission, fee is refunded as per UGC refund rules. On hostel withdrawal,\nonly security, mess and laundry charges for unused months are refundable pro rata. Policy PDF:\nhttps://www.abes.ac.in/pdf/admissions/Fee Refund Policy for Newly Admitted Students for 2025-26.pdf\n- Anti-ragging (AICTE) PDF: https://www.abes.ac.in/pdf/admissions/anti-ragging.pdf\n- State/Central scholarship policy PDF:\nhttps://www.abes.ac.in/pdf/admissions/state-central-scholarship.pdf\n- PM-Vidyalaxmi scheme: https://pmvidyalaxmi.co.in/"
+  }
+]

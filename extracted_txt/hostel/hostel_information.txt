@@ -1,0 +1,29 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | hostel_information.txt | Page 1
+ABES Engineering College - HOSTEL INFORMATION
+SOURCE: https://www.abes.ac.in/courses-offered.html (Hostel Fee Structure 2026-27)
+FETCHED: 2026-09-30
+CATEGORY: hostel
+BOYS HOSTEL (Rs. per year; all include registration Rs.500 and laundry Rs.3500 for 500 clothes/year)
+- Four seater: Non-AC lodging & boarding 127500, total without security 131500, total with Rs.5000
+refundable security 136500. AC: 139000 / 143000 / 148000.
+- Triple seater: Non-AC 134000 / 138000 / 143000. AC: 155000 / 159000 / 164000.
+- Double seater: Non-AC 145500 / 149500 / 154500. AC: 168500 / 172500 / 177500.
+GIRLS HOSTEL (AC only)
+- Four seater: lodging & boarding 139000, total without security 143000, with security 148000.
+- Triple seater: 155000 / 159000 / 164000.
+- Double seater: 168500 / 172500 / 177500.
+Security: Rs.5000 refundable, one-time.
+TERMS
+- Room allotment first-come, first-served.
+- AC rooms allotted only on full occupancy of the room.
+- AC use 5:00 PM to 8:00 AM on working days and round-the-clock on holidays, subject to UPPCL power
+supply.
+- Desert coolers are prohibited in the Girls' Hostel; allowed in the Boys' Hostel per college policy.
+- Limited rooms with attached bathroom available for an extra Rs.10,000, shared equally among
+roommates.
+- On withdrawal from hostel, only security, mess and laundry charges for unused months are refunded pro
+rata.

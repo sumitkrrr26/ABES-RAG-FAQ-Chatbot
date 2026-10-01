@@ -1,0 +1,35 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | college_information.txt | Page 1
+ABES Engineering College - COLLEGE INFORMATION
+SOURCE: https://www.abes.ac.in/index.html
+FETCHED: 2026-09-30
+CATEGORY: institutional
+ABES Engineering College, Ghaziabad (Uttar Pradesh). Established 2000 under the Society for
+Educational Excellence. The homepage states "Autonomous College since 2025" and marks 26 years of
+excellence.
+Affiliations/approvals shown: AKTU, AICTE, ISO, NBA accredited programmes, NIRF ranking, NAAC
+accreditation (A grade logo).
+ABES AT A GLANCE (homepage)
+- Students on campus: 8090
+- Alumni worldwide: 24000+
+- Startups incubated: 54
+- Highest package, placements 2025: 60 LPA; offers in placements 2025: 1692
+- Campus: 15.77 acres
+- Recruiters: 500+
+- Scopus publications: 2690+; published patents: 375+; granted patents: 9
+- Consultancy received 2024-25: 15 lakh; sponsored research 2024-25: 107.5 lakh
+- Programmes: B.Tech, M.Tech, MCA, BCA, MBA (MBA details at https://abes.edu.in/)
+- Clubs: 11 in total (homepage highlights TEDx, Genero, TechFest, Utsaah).
+- Notice on homepage: class commencement for all courses 10.09.2026 (9:30 AM-4:30 PM); UPTAC
+physical reporting B.Tech (R7) and B.Tech LE, MCA & BCA (R3) on 03-07 Sept 2026, 10 AM-4 PM.
+RECOGNITION (homepage)
+- ABES team took part in the International Aerial Robotics Competition in Georgia, USA, ranked number 1
+among new entries worldwide (per ABES).
+- Participated in a Korean international aerial robot competition, 4th of 48 teams (per ABES).
+- Kumudini Tyagi (2018 CSE graduate) is a Sub Lieutenant in the Indian Navy.
+CONTACT
+- Admission enquiry numbers are listed in admission/courses_offered.txt. Web admin:
+webadmin@abes.ac.in. Apply online: https://erp.abes.ac.in/onlineenquiry

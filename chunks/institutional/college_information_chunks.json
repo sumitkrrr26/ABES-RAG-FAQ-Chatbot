@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "college_information.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | college_information.txt | Page 1\nABES Engineering College - COLLEGE INFORMATION\nSOURCE: https://www.abes.ac.in/index.html\nFETCHED: 2026-09-30\nCATEGORY: institutional\nABES Engineering College, Ghaziabad (Uttar Pradesh). Established 2000 under the Society for\nEducational Excellence. The homepage states \"Autonomous College since 2025\" and marks 26 years of\nexcellence.\nAffiliations/approvals shown: AKTU, AICTE, ISO, NBA accredited programmes, NIRF ranking, NAAC\naccreditation (A grade logo).\nABES AT A GLANCE (homepage)\n- Students on campus: 8090\n- Alumni worldwide: 24000+\n- Startups incubated: 54\n- Highest package, placements 2025: 60 LPA; offers in placements 2025: 1692"
+  },
+  {
+    "chunk_id": 1,
+    "source": "college_information.txt",
+    "page": 1,
+    "text": "- Startups incubated: 54\n- Highest package, placements 2025: 60 LPA; offers in placements 2025: 1692\n- Campus: 15.77 acres\n- Recruiters: 500+\n- Scopus publications: 2690+; published patents: 375+; granted patents: 9\n- Consultancy received 2024-25: 15 lakh; sponsored research 2024-25: 107.5 lakh\n- Programmes: B.Tech, M.Tech, MCA, BCA, MBA (MBA details at https://abes.edu.in/)\n- Clubs: 11 in total (homepage highlights TEDx, Genero, TechFest, Utsaah).\n- Notice on homepage: class commencement for all courses 10.09.2026 (9:30 AM-4:30 PM); UPTAC\nphysical reporting B.Tech (R7) and B.Tech LE, MCA & BCA (R3) on 03-07 Sept 2026, 10 AM-4 PM.\nRECOGNITION (homepage)"
+  },
+  {
+    "chunk_id": 2,
+    "source": "college_information.txt",
+    "page": 1,
+    "text": "ing B.Tech (R7) and B.Tech LE, MCA & BCA (R3) on 03-07 Sept 2026, 10 AM-4 PM.\nRECOGNITION (homepage)\n- ABES team took part in the International Aerial Robotics Competition in Georgia, USA, ranked number 1\namong new entries worldwide (per ABES).\n- Participated in a Korean international aerial robot competition, 4th of 48 teams (per ABES).\n- Kumudini Tyagi (2018 CSE graduate) is a Sub Lieutenant in the Indian Navy.\nCONTACT\n- Admission enquiry numbers are listed in admission/courses_offered.txt. Web admin:\nwebadmin@abes.ac.in. Apply online: https://erp.abes.ac.in/onlineenquiry"
+  }
+]

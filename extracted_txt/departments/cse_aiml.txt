@@ -1,0 +1,69 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | cse_aiml.txt | Page 1
+ABES Engineering College - CSE AIML
+SOURCES: https://www.abes.ac.in/cse-aiml.html ; https://abes.ac.in/cse-aiml.php
+FETCHED: 2026-09-30
+CATEGORY: departments
+NOTE: The .php page says intake 180; the current .html page and the Programs Offered table say 360.
+Use 360.
+OVERVIEW
+The Department of CSE with Specialization in AI and ML was established in 2020. It offers a 4-year
+full-time B.Tech CSE-AIML programme with a total intake of 360. Facilities include a Project Lab and
+Advanced AI & ML Labs. The department runs in-house training, industrial training, workshops, expert
+talks, guest lectures and alumni interactions, with emphasis on live projects, internships, hackathons,
+certifications and competitive programming.
+Highlights: ranked 1 in AKTU (per AKTU first-year results) among colleges offering B.Tech CSE with AI &
+ML specialization (as stated by ABES); industry-academia connect; advanced training and research
+centres; regular industrial talks.
+Placement in 2025-26 named Amazon, Accenture, Capgemini India, Cognizant, HCL Technologies,
+Infosys, Josh Technology Group, Veersa Technologies, Pibit.AI, MAC Softwares, Infra Market.
+Career paths: Machine Learning Engineer, AI Engineer, ML Architect, AI scientist in R&D.
+VISION: to become a globally recognized, student-centric department fostering high-quality learning and
+future-ready professionals in AI and ML through transformative education, applied research, innovation
+and industry-integrated practices.
+MISSION: student-centric outcome-based AI/ML education; ethical, socially responsible lifelong learners;
+collaborative environment with global academic and industry collaborations; culture of innovation, research
+and entrepreneurship.
+PEOs: (1) computing, analytics and engineering fundamentals; (2) research-oriented thinking and
+innovation in AI/ML; (3) entrepreneurship and project management for AI-based solutions; (4) continuous
+learning through professional certification; (5) ethics, data privacy, security and fairness in intelligent
+systems.
+PSOs: (1) apply mathematical foundations, algorithms and CS principles to model and design advanced
+systems; (2) solve complex computation problems with AI/ML in analytics, software, network and
+intelligent systems; (3) apply ethical AI solutions for societal benefit and sustainable development.
+Programme Outcomes PO1-PO11 follow the standard NBA/AICTE list (engineering knowledge, problem
+analysis, design, investigations, tool usage, engineer and the world, ethics, teamwork, communication,
+project management and finance, life-long learning).
+HOD: Dr. Deepali Dev, Associate Professor & HOD (Ph.D). Her message: department focuses on AI, ML
+and Data Science; students take part in Smart India Hackathon, ACM ICPC and Google coding contests.
+FACULTY (designation as listed): Dr. Amit Sinha (Professor, Dean Academics & Training); Dr.
+Dhyanendra Jain, Dr. Anamika Goel (Associate Professors); Assistant Professors include Dr. Sony
+Kumari, Dr. Manika Bharadwaj, Amit Kumar Sharma, Vikas Choudhary, Waseem Ahmed, Prashant
+Tomer, Abhishek Gupta, Divya Raj, Rohini Mittal, Mansi Aggarwal, Prachi Pundhir, Ashish Kumar Mathur,
+Nilesh Kumar Sen, Rohit Pratap Singh, Shivani Garg, Dr. Deepti Deshmukh, Ritin Behl, Ruchi Jain,
+Tanaya Gupta, Sonika Nagar, Parul Phoghat, Pranshi Verma, Deepti Aggarwal, Utkarsh Dixit, Vinod
+Kumar, Pankaj Pratap Singh, Savee Gupta, Shalu, Priyanka Gupta, Aayush Agarwal, Anurag Gupta, Shaili
+Gupta, Tripti Pandey, Jaya Srivastava.
+
+
+===== PAGE 2 =====
+
+ABES RAG dataset | cse_aiml.txt | Page 2
+EVENTS AND INDUSTRY CONNECT
+- Workshops 2025 (sponsored by MeitY under TIDE 2.0): AI for Your Business (15-19 April 2025) and
+Design Thinking (21-23 April 2025).
+- Guest lectures 2025-26: startup ecosystem session with AIIDE CoE, SIIC-FIRST IIT Kanpur and
+INIF-ABES (7 Nov 2025); Navigating the AI Era (16 Oct 2025); GATE preparation strategy (29 Sept 2025).
+- Gen AI Hackathon by ABESEC x HCL GUVI on 12 Sept 2025. ARDEMA's ARDETHON on 28 Sept 2024.
+- Industry visits: HCL Noida (26 May 2025), NS3 Tech Gurugram (19 Oct 2024), Atal Innovation Centre IIT
+Delhi Sonipat (20 Sept 2024), GeeksforGeeks Noida (2024), Microsoft campus Gurugram (17 Sept 2022),
+among others.
+- STC/FDP organised with NITTTR Chandigarh: AI and Cloud-Based Tools for Research (24-28 Mar
+2025); AIML & Data Science for Industry 4.0 (26 Feb-1 Mar 2024).
+- GATE-qualified AIML students are listed for 2022-23, 2023-24 and 2024-25 on the page.
+- Newsletters: https://www.abes.ac.in/pdf/AIML/ (2022-23 to 2024-25, Vol. 1 and 2).
+Research: the page lists journal papers, conference papers, patents, book chapters and books by faculty
+(2022-2025).

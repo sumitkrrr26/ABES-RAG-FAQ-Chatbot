@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | placement_information.txt | Page 1\nABES Engineering College - PLACEMENT INFORMATION\nSOURCES: https://www.abes.ac.in/placement.html and https://www.abes.ac.in/index.html\nFETCHED: 2026-09-30\nCATEGORY: placements\nIndividual student names, enrolment numbers and salaries were left out on purpose.\nSESSION 2025-26 (placement page): 489 companies visited for campus placements; 1289 placements\n(offers on campus); highest package 45 LPA; \"1290 offers in Session 2025-26\" in the page heading.\nHOMEPAGE \"PLACEMENT GLIMPSES 2026\": 1289 placements; highest 45 LPA; median salary 4.50\nLPA; placement 80.06%; 1870 offers; 270 dream offers (CTC 7-9 LPA); 89 super dream offers (CTC 10+\nLPA);"
+  },
+  {
+    "chunk_id": 1,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "placement 80.06%; 1870 offers; 270 dream offers (CTC 7-9 LPA); 89 super dream offers (CTC 10+\nLPA); 444 super offers (CTC 5-7 LPA).\nHOMEPAGE \"AT A GLANCE\" (placements 2025): highest package 60 LPA; 1692 offers; 500+ recruiters.\nNote: the homepage labels differ (2025 vs 2026) and the \"dream\" tier figures are labelled inconsistently.\nQuote the year with every number.\nRECRUITERS: companies offering 20+ LPA include Amazon, Atlassian, Goldman Sachs, Google,\nMicrosoft (logos on page). Companies with 100+ offers: TCS, Cognizant, Infosys, Accenture, Capgemini,\nDXC. Top recruiters shown: Amazon, Microsoft, Accenture, Adobe, Capgemini, Cognizant, TCS, Infosys,\nDXC, Byju's, Cisco, Chetu."
+  },
+  {
+    "chunk_id": 2,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "Amazon, Microsoft, Accenture, Adobe, Capgemini, Cognizant, TCS, Infosys,\nDXC, Byju's, Cisco, Chetu.\nTop internships: Amazon, Atlassian, Autodesk, Google, Google Summer of Code, LinkedIn, Walmart,\nWayfair, KPMG, LG, NEC, Newgen and others.\nDream offers batch 2024-25 (company, LPA, students): Infosys 9.5 (6), TCS 9 (2), Veersa 8.28 (14),\nSamsung R&D 7.65 (11).\nCCPD (Centre for Career Planning & Development): Director Ms. Upasana Tiwari Awasthi\n(+91-8527554019). Associate Directors: Mr. Vivek Kumar Singh, Mr. Ankit Jain, Ms. Ekta Singh.\nManagers: Mr. Varun Sharma, Ms. Kehkashan Khan. Placement coordinator: Mr."
+  },
+  {
+    "chunk_id": 3,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "kit Jain, Ms. Ekta Singh.\nManagers: Mr. Varun Sharma, Ms. Kehkashan Khan. Placement coordinator: Mr. Prem Prabhaker."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "clubs.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | clubs.txt | Page 1\nABES Engineering College - CLUBS\nSOURCE: https://www.abes.ac.in/index.html\nFETCHED: 2026-09-30\nCATEGORY: clubs\nThe homepage says ABES has 11 clubs in total. Four are described:\n- TEDx: \"Catalysts of Change: Igniting Conversations at TEDx\"\n- Genero: cultural club (\"Cultural Kaleidoscope: Where Stories Come to Life\")\n- TechFest: technology club (\"Digital Canvas: Painting Tomorrow with Tech Innovations\")\n- Utsaah: sports/activities club (\"Beyond the Finish Line: Celebrating Every Step of the Journey\")\nThe other seven club names were not on the fetched page. Department clubs mentioned elsewhere:"
+  },
+  {
+    "chunk_id": 1,
+    "source": "clubs.txt",
+    "page": 1,
+    "text": "ney\")\nThe other seven club names were not on the fetched page. Department clubs mentioned elsewhere:\nARDEMA (CSE-AIML club, ran the 8-hour hackathon ARDETHON on 28 Sept 2024).\nMore: https://www.abes.ac.in/life@abes_new.html (not fetched)"
+  }
+]

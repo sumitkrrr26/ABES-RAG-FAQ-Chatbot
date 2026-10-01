@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | fee_structure_2026_27.txt | Page 1\nABES Engineering College - FEE STRUCTURE 2026 27\nSOURCE: https://www.abes.ac.in/courses-offered.html (Fee Structure 2026-27)\nFETCHED: 2026-09-30\nCATEGORY: admission\nNOTE: The page shows separate tabs (B.Tech, B.Tech-LE, M.Tech, MCA, BCA, B.Tech-WP). The\nfetched text repeats an identical table for the first tabs and shows two other tables without tab labels, so\nconfirm which table belongs to which programme on the live page.\nTABLE A (Total Rs. 181,200)\nTuition 110000; Career Planning & Development 36000; Technology and Digital Learning Support 6000;\nExamination 9600; Industry Engagement & Innovation Support 6000;"
+  },
+  {
+    "chunk_id": 1,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "and Digital Learning Support 6000;\nExamination 9600; Industry Engagement & Innovation Support 6000; Student Learning Resource Access\n& Book Bank 5000; Admissions, Registration & Documentation 3100; Student Welfare & Group Insurance\n500; Security Deposit (refundable, one-time) 5000.\nTABLE B, \"Academic Fee Structure for New Admissions\" (Total Rs. 166,200)\nTuition 95000; other heads same as Table A.\nTABLE C (Grand Total Rs. 119,880 plus one-time items)\nTuition 110000; Technology and Digital Learning Support 9380; Student Welfare & Group Insurance 500.\nExtra: Admissions/Registration 3100 (one time), Security Deposit 5000 (refundable), Examination fees\n9600 (both semesters, year-wise)."
+  },
+  {
+    "chunk_id": 2,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "0 (one time), Security Deposit 5000 (refundable), Examination fees\n9600 (both semesters, year-wise). Can be paid monthly at Rs. 9,990/month.\nUNIFORM (mandatory, cash only, 2026-27): Rs. 9,900. Boys: 3 pant, 3 shirt, 2 tie, 1 sweater, 1 blazer, 1\nT-shirt (branch colour code), 1 sweatshirt. Girls: same plus 2 scarves.\nPAYMENT MODES: ERP admission portal payment gateway; Jodo link/QR\n(https://pay.jodo.in/pages/SAyYRqUbhMV4CqXb); bank draft in favour of \"ABES Engineering College\",\nGhaziabad or Delhi (write student name, admission number, mobile on the back); RTGS/NEFT to Punjab\nNational Bank, Navyug Market, Ghaziabad (current account details are on the live page).\nRestrictions:"
+  },
+  {
+    "chunk_id": 3,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "ational Bank, Navyug Market, Ghaziabad (current account details are on the live page).\nRestrictions: cheques and cash are not accepted for academic fees. Cash deposited directly at the bank\nincurs a Rs. 10,000 penalty and is refunded only after the due fee is paid by demand draft."
+  }
+]

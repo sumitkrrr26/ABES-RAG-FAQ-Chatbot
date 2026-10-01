@@ -1,0 +1,260 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | admission_procedure.txt | Page 1\nABES Engineering College - ADMISSION PROCEDURE\nSOURCE: https://www.abes.ac.in/courses-offered.html (2026-27 session) and\nhttps://abes.ac.in/admission-procedure.php (older 2024-25 wording, used for M.Tech and MCA details)\nFETCHED: 2026-09-30\nCATEGORY: admission\nB.TECH FIRST YEAR (2026-27)\n- 85% of approved intake through counselling based on JEE-2026 and AICTE/AKTU eligibility for 2026-27.\nCandidates follow www.aktu.ac.in, receive an allotment letter, then report to the allotted college on the\ngiven dates with fees and documents.\n- 15% through direct admission per AICTE/AKTU guidelines and college policy. Apply online at"
+  },
+  {
+    "chunk_id": 1,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "uments.\n- 15% through direct admission per AICTE/AKTU guidelines and college policy. Apply online at\nhttps://erp.abes.ac.in/onlineenquiry ; shortlisting on aggregate in the qualifying exam and JEE score/rank;\nthen interview; seat offered on marks scored in test and interview.\nB.TECH LATERAL ENTRY (2024-25 wording)\n- Up to 10% of approved intake, supernumerary, plus unfilled first-year vacancies. Counselling based on\nCUET (UG). Direct admission: apply online, shortlisting on qualifying-exam aggregate and CUET\nscore/rank, then test and interview.\nMCA (2024-25 wording)\n- 85% via counselling based on CUET (PG); 15% direct admission with shortlisting on qualifying-exam"
+  },
+  {
+    "chunk_id": 2,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "- 85% via counselling based on CUET (PG); 15% direct admission with shortlisting on qualifying-exam\naggregate and CUET score/rank, then test and interview.\nM.TECH (2024-25 wording)\n- Counselling via AKTU entrance exam; direct admission per AICTE/AKTU guidelines and college policy.\n- Financial assistance: GATE-qualified candidates are eligible for AICTE/MHRD PG scholarship.\nNon-GATE candidates admitted directly get a stipend of Rs. 7,000 (1st year) and Rs. 8,000 (2nd year) per\ncollege policy, based on college-level selection. Financial support is also given for publishing research in\njournals and international conference proceedings."
+  },
+  {
+    "chunk_id": 3,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "support is also given for publishing research in\njournals and international conference proceedings.\nPRE-ENROLLMENT REGISTRATION CHARGES (direct admission, 2026-27)\n- Appeared for entrance exam/counselling: Rs. 1000 (General & OBC of UP / all categories outside UP);\nRs. 500 (SC & ST of UP).\n- Not appeared: Rs. 2300 (General & OBC of UP / all outside UP); Rs. 1150 (SC & ST of UP).\n- Students allotted seats through counselling who already paid Rs. 20,000 or Rs. 12,000 as counselling fee\npay only the remaining academic fee."
+  },
+  {
+    "chunk_id": 0,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | courses_offered.txt | Page 1\nABES Engineering College - COURSES OFFERED\nSOURCE: https://www.abes.ac.in/courses-offered.html\nFETCHED: 2026-09-30\nCATEGORY: admission\nPROGRAMS AND SEATS (2026-27)\nB.Tech\n- Computer Science & Engineering: 900 (NBA accredited)\n- CSE (Artificial Intelligence and Machine Learning): 360\n- CSE (Data Science): 180\n- Electronics & Communication Engineering: 180 (NBA accredited)\n- Electrical and Computer Engineering: 120\n- Mechanical Engineering: 60 (NBA accredited)\n- CSE (Working Professional): 30\n- ECE (Working Professional): 30\nDepartment of Computer Application\n- MCA: 180\n- BCA: 120\nM.Tech\n- M.Tech CSE: 12\n- M.Tech ECE: 6\nEntrance exams:"
+  },
+  {
+    "chunk_id": 1,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "f Computer Application\n- MCA: 180\n- BCA: 120\nM.Tech\n- M.Tech CSE: 12\n- M.Tech ECE: 6\nEntrance exams: JEE (Main) 2026 for B.Tech; CUET (UG) 2026 for B.Tech lateral entry and BCA; CUET\n(PG) 2026 for MCA.\nELIGIBILITY (as per UPTAC brochure 2026-27, subject to AKTU changes)\n- B.Tech 1st year (4 yrs): passed 10+2 with Physics/Mathematics/Chemistry/Computer\nScience/Electronics/IT/Biology/Informatics Practices/Biotechnology/Technical\nVocational/Agriculture/Engineering Graphics/Business Studies/Entrepreneurship per table 1.3(a)\n(Annexure-1: https://abes.ac.in/pdf/Annexure-1.pdf); at least 45% (40% reserved category) in those\nsubjects together. OR passed D.Voc. in same/allied sector."
+  },
+  {
+    "chunk_id": 2,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "east 45% (40% reserved category) in those\nsubjects together. OR passed D.Voc. in same/allied sector. Bridge courses are offered to students from\ndiverse backgrounds.\n- B.Tech Lateral Entry (2nd year, 3 yrs): diploma (3 yrs / 2 yrs lateral) with at least 45% (40% SC/ST) in\nany engineering branch except Agriculture Engg., Pharmacy, Architecture, from a BTEUP-recognized\ninstitution or equivalent; OR B.Sc. from a UGC-recognized university with at least 45% (40% SC/ST) and\n10+2 with Mathematics (allotted if seats remain after diploma students); OR D.Voc.\n- BCA (3 yrs): 10+2 in any stream.\n- M.Tech (2 yrs): bachelor's degree or equivalent with at least 50% (45% reserved category).\n- MCA (2 yrs):"
+  },
+  {
+    "chunk_id": 3,
+    "source": "courses_offered.txt",
+    "page": 1,
+    "text": "h (2 yrs): bachelor's degree or equivalent with at least 50% (45% reserved category).\n- MCA (2 yrs): BCA / B.Sc. (CS) / B.Sc. (IT) / B.E. or B.Tech (CSE/IT) or equivalent; OR any graduation\nwith Mathematics at 10+2 or graduation level, at least 50% (45% SC/ST).\nCOUNSELLING PRIORITY (AICTE Approval Process Handbook 2026-27)\n- B.Tech 1st yr: JEE Main (current year) candidates first, then merit in qualifying exam; or as per UP\nGovt./University directive."
+  },
+  {
+    "chunk_id": 4,
+    "source": "courses_offered.txt",
+    "page": 2,
+    "text": "ABES RAG dataset | courses_offered.txt | Page 2\n- Lateral entry: CUET UG current year first, then qualifying-exam merit.\n- M.Tech: GATE/GPAT/CEED merit first, then CUET PG, then institution exam/merit.\n- MCA: CUET PG / NTA first, then qualifying-exam merit.\nADMISSION ENQUIRY NUMBERS\n- B.Tech 1st year (direct admission): 8448494111\n- B.Tech lateral 2nd year: 8448494111, 9582260302\n- BCA: 8448494111, 9582260302\n- MBA: 8448494111, 8851082003\n- MCA: 8448494111, 8860092369, 8860086492\n- M.Tech CSE: 9999889357; M.Tech ECE: 8860426655\nOTHER POLICIES ON THE PAGE\n- Refund: on cancellation of admission, fee is refunded as per UGC refund rules. On hostel withdrawal,"
+  },
+  {
+    "chunk_id": 5,
+    "source": "courses_offered.txt",
+    "page": 2,
+    "text": "Refund: on cancellation of admission, fee is refunded as per UGC refund rules. On hostel withdrawal,\nonly security, mess and laundry charges for unused months are refundable pro rata. Policy PDF:\nhttps://www.abes.ac.in/pdf/admissions/Fee Refund Policy for Newly Admitted Students for 2025-26.pdf\n- Anti-ragging (AICTE) PDF: https://www.abes.ac.in/pdf/admissions/anti-ragging.pdf\n- State/Central scholarship policy PDF:\nhttps://www.abes.ac.in/pdf/admissions/state-central-scholarship.pdf\n- PM-Vidyalaxmi scheme: https://pmvidyalaxmi.co.in/"
+  },
+  {
+    "chunk_id": 0,
+    "source": "documents_required.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | documents_required.txt | Page 1\nABES Engineering College - DOCUMENTS REQUIRED\nSOURCE: https://www.abes.ac.in/courses-offered.html (Documents Required)\nFETCHED: 2026-09-30\nCATEGORY: admission\nBring two sets of self-attested photocopies plus originals (where stated) at final admission/reporting.\n- Demand Draft of academic fee (original); demand draft of hostel fee if opted (original); uniform fees (cash\nonly); transport fee if opted (cash only).\n- University allotment letter: 2 copies (counselling candidates). Entrance exam result: 2 copies.\n- X marksheet and passing certificate; XII marksheet and passing certificate: 2 copies and original each."
+  },
+  {
+    "chunk_id": 1,
+    "source": "documents_required.txt",
+    "page": 1,
+    "text": "arksheet and passing certificate; XII marksheet and passing certificate: 2 copies and original each.\nUndertaking AD01 if result awaited or marksheets/degree not available.\n- Diploma/graduation marksheets (all years) and PDC/Degree: 2 copies and original each.\n- Transfer Certificate (UP Board / UP Technical Board): 1 copy and original. Migration certificate (other\nboards/universities): 1 copy and original.\n- Character certificate: 1 copy and original.\n- Caste certificate (OBC certificate issued after 01.04.2025): 2 copies, only for SC/ST/OBC.\n- Income certificate (issued after 01.04.2025) or current-year ITR, if interested in any government\nscholarship: 2 copies. EWS income certificate:"
+  },
+  {
+    "chunk_id": 2,
+    "source": "documents_required.txt",
+    "page": 1,
+    "text": "or current-year ITR, if interested in any government\nscholarship: 2 copies. EWS income certificate: 2 copies (format:\nhttps://www.abes.ac.in/pdf/admissions/EWS Certificate.pdf).\n- Gap affidavit on Rs 10 stamp paper, if any: 1 copy and original.\n- Domicile certificate: 2 copies, needed if qualifying exam was passed outside UP but parents reside in UP.\n- Medical fitness certificate from CMO/registered doctor in prescribed format: 1 copy\n(https://www.abes.ac.in/pdf/medical certificate.pdf). Blood group test report: 1 copy.\n- Photos: 3 of candidate and 1 each of father and mother; write student name and branch on the back.\n- Aadhar card of self, father and mother: 2 copies."
+  },
+  {
+    "chunk_id": 3,
+    "source": "documents_required.txt",
+    "page": 1,
+    "text": "ther; write student name and branch on the back.\n- Aadhar card of self, father and mother: 2 copies.\n- Declaration/Undertaking RO-S21 (original) and Internet Use Undertaking CA-S1 (original).\nNote: keep one set of photocopies for personal/scholarship use. Originals are returned only after\nUniversity verification."
+  },
+  {
+    "chunk_id": 0,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | fee_structure_2026_27.txt | Page 1\nABES Engineering College - FEE STRUCTURE 2026 27\nSOURCE: https://www.abes.ac.in/courses-offered.html (Fee Structure 2026-27)\nFETCHED: 2026-09-30\nCATEGORY: admission\nNOTE: The page shows separate tabs (B.Tech, B.Tech-LE, M.Tech, MCA, BCA, B.Tech-WP). The\nfetched text repeats an identical table for the first tabs and shows two other tables without tab labels, so\nconfirm which table belongs to which programme on the live page.\nTABLE A (Total Rs. 181,200)\nTuition 110000; Career Planning & Development 36000; Technology and Digital Learning Support 6000;\nExamination 9600; Industry Engagement & Innovation Support 6000;"
+  },
+  {
+    "chunk_id": 1,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "and Digital Learning Support 6000;\nExamination 9600; Industry Engagement & Innovation Support 6000; Student Learning Resource Access\n& Book Bank 5000; Admissions, Registration & Documentation 3100; Student Welfare & Group Insurance\n500; Security Deposit (refundable, one-time) 5000.\nTABLE B, \"Academic Fee Structure for New Admissions\" (Total Rs. 166,200)\nTuition 95000; other heads same as Table A.\nTABLE C (Grand Total Rs. 119,880 plus one-time items)\nTuition 110000; Technology and Digital Learning Support 9380; Student Welfare & Group Insurance 500.\nExtra: Admissions/Registration 3100 (one time), Security Deposit 5000 (refundable), Examination fees\n9600 (both semesters, year-wise)."
+  },
+  {
+    "chunk_id": 2,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "0 (one time), Security Deposit 5000 (refundable), Examination fees\n9600 (both semesters, year-wise). Can be paid monthly at Rs. 9,990/month.\nUNIFORM (mandatory, cash only, 2026-27): Rs. 9,900. Boys: 3 pant, 3 shirt, 2 tie, 1 sweater, 1 blazer, 1\nT-shirt (branch colour code), 1 sweatshirt. Girls: same plus 2 scarves.\nPAYMENT MODES: ERP admission portal payment gateway; Jodo link/QR\n(https://pay.jodo.in/pages/SAyYRqUbhMV4CqXb); bank draft in favour of \"ABES Engineering College\",\nGhaziabad or Delhi (write student name, admission number, mobile on the back); RTGS/NEFT to Punjab\nNational Bank, Navyug Market, Ghaziabad (current account details are on the live page).\nRestrictions:"
+  },
+  {
+    "chunk_id": 3,
+    "source": "fee_structure_2026_27.txt",
+    "page": 1,
+    "text": "ational Bank, Navyug Market, Ghaziabad (current account details are on the live page).\nRestrictions: cheques and cash are not accepted for academic fees. Cash deposited directly at the bank\nincurs a Rs. 10,000 penalty and is refunded only after the due fee is paid by demand draft."
+  },
+  {
+    "chunk_id": 0,
+    "source": "clubs.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | clubs.txt | Page 1\nABES Engineering College - CLUBS\nSOURCE: https://www.abes.ac.in/index.html\nFETCHED: 2026-09-30\nCATEGORY: clubs\nThe homepage says ABES has 11 clubs in total. Four are described:\n- TEDx: \"Catalysts of Change: Igniting Conversations at TEDx\"\n- Genero: cultural club (\"Cultural Kaleidoscope: Where Stories Come to Life\")\n- TechFest: technology club (\"Digital Canvas: Painting Tomorrow with Tech Innovations\")\n- Utsaah: sports/activities club (\"Beyond the Finish Line: Celebrating Every Step of the Journey\")\nThe other seven club names were not on the fetched page. Department clubs mentioned elsewhere:"
+  },
+  {
+    "chunk_id": 1,
+    "source": "clubs.txt",
+    "page": 1,
+    "text": "ney\")\nThe other seven club names were not on the fetched page. Department clubs mentioned elsewhere:\nARDEMA (CSE-AIML club, ran the 8-hour hackathon ARDETHON on 28 Sept 2024).\nMore: https://www.abes.ac.in/life@abes_new.html (not fetched)"
+  },
+  {
+    "chunk_id": 0,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | cse_aiml.txt | Page 1\nABES Engineering College - CSE AIML\nSOURCES: https://www.abes.ac.in/cse-aiml.html ; https://abes.ac.in/cse-aiml.php\nFETCHED: 2026-09-30\nCATEGORY: departments\nNOTE: The .php page says intake 180; the current .html page and the Programs Offered table say 360.\nUse 360.\nOVERVIEW\nThe Department of CSE with Specialization in AI and ML was established in 2020. It offers a 4-year\nfull-time B.Tech CSE-AIML programme with a total intake of 360. Facilities include a Project Lab and\nAdvanced AI & ML Labs. The department runs in-house training, industrial training, workshops, expert"
+  },
+  {
+    "chunk_id": 1,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "Advanced AI & ML Labs. The department runs in-house training, industrial training, workshops, expert\ntalks, guest lectures and alumni interactions, with emphasis on live projects, internships, hackathons,\ncertifications and competitive programming.\nHighlights: ranked 1 in AKTU (per AKTU first-year results) among colleges offering B.Tech CSE with AI &\nML specialization (as stated by ABES); industry-academia connect; advanced training and research\ncentres; regular industrial talks.\nPlacement in 2025-26 named Amazon, Accenture, Capgemini India, Cognizant, HCL Technologies,\nInfosys, Josh Technology Group, Veersa Technologies, Pibit.AI, MAC Softwares, Infra Market.\nCareer paths:"
+  },
+  {
+    "chunk_id": 2,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "ys, Josh Technology Group, Veersa Technologies, Pibit.AI, MAC Softwares, Infra Market.\nCareer paths: Machine Learning Engineer, AI Engineer, ML Architect, AI scientist in R&D.\nVISION: to become a globally recognized, student-centric department fostering high-quality learning and\nfuture-ready professionals in AI and ML through transformative education, applied research, innovation\nand industry-integrated practices.\nMISSION: student-centric outcome-based AI/ML education; ethical, socially responsible lifelong learners;\ncollaborative environment with global academic and industry collaborations; culture of innovation, research\nand entrepreneurship.\nPEOs:"
+  },
+  {
+    "chunk_id": 3,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "al academic and industry collaborations; culture of innovation, research\nand entrepreneurship.\nPEOs: (1) computing, analytics and engineering fundamentals; (2) research-oriented thinking and\ninnovation in AI/ML; (3) entrepreneurship and project management for AI-based solutions; (4) continuous\nlearning through professional certification; (5) ethics, data privacy, security and fairness in intelligent\nsystems.\nPSOs: (1) apply mathematical foundations, algorithms and CS principles to model and design advanced\nsystems; (2) solve complex computation problems with AI/ML in analytics, software, network and\nintelligent systems;"
+  },
+  {
+    "chunk_id": 4,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "lve complex computation problems with AI/ML in analytics, software, network and\nintelligent systems; (3) apply ethical AI solutions for societal benefit and sustainable development.\nProgramme Outcomes PO1-PO11 follow the standard NBA/AICTE list (engineering knowledge, problem\nanalysis, design, investigations, tool usage, engineer and the world, ethics, teamwork, communication,\nproject management and finance, life-long learning).\nHOD: Dr. Deepali Dev, Associate Professor & HOD (Ph.D). Her message: department focuses on AI, ML\nand Data Science; students take part in Smart India Hackathon, ACM ICPC and Google coding contests.\nFACULTY (designation as listed): Dr."
+  },
+  {
+    "chunk_id": 5,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "in Smart India Hackathon, ACM ICPC and Google coding contests.\nFACULTY (designation as listed): Dr. Amit Sinha (Professor, Dean Academics & Training); Dr.\nDhyanendra Jain, Dr. Anamika Goel (Associate Professors); Assistant Professors include Dr. Sony\nKumari, Dr. Manika Bharadwaj, Amit Kumar Sharma, Vikas Choudhary, Waseem Ahmed, Prashant\nTomer, Abhishek Gupta, Divya Raj, Rohini Mittal, Mansi Aggarwal, Prachi Pundhir, Ashish Kumar Mathur,\nNilesh Kumar Sen, Rohit Pratap Singh, Shivani Garg, Dr. Deepti Deshmukh, Ritin Behl, Ruchi Jain,\nTanaya Gupta, Sonika Nagar, Parul Phoghat, Pranshi Verma, Deepti Aggarwal, Utkarsh Dixit, Vinod"
+  },
+  {
+    "chunk_id": 6,
+    "source": "cse_aiml.txt",
+    "page": 1,
+    "text": "ain,\nTanaya Gupta, Sonika Nagar, Parul Phoghat, Pranshi Verma, Deepti Aggarwal, Utkarsh Dixit, Vinod\nKumar, Pankaj Pratap Singh, Savee Gupta, Shalu, Priyanka Gupta, Aayush Agarwal, Anurag Gupta, Shaili\nGupta, Tripti Pandey, Jaya Srivastava."
+  },
+  {
+    "chunk_id": 7,
+    "source": "cse_aiml.txt",
+    "page": 2,
+    "text": "ABES RAG dataset | cse_aiml.txt | Page 2\nEVENTS AND INDUSTRY CONNECT\n- Workshops 2025 (sponsored by MeitY under TIDE 2.0): AI for Your Business (15-19 April 2025) and\nDesign Thinking (21-23 April 2025).\n- Guest lectures 2025-26: startup ecosystem session with AIIDE CoE, SIIC-FIRST IIT Kanpur and\nINIF-ABES (7 Nov 2025); Navigating the AI Era (16 Oct 2025); GATE preparation strategy (29 Sept 2025).\n- Gen AI Hackathon by ABESEC x HCL GUVI on 12 Sept 2025. ARDEMA's ARDETHON on 28 Sept 2024.\n- Industry visits: HCL Noida (26 May 2025), NS3 Tech Gurugram (19 Oct 2024), Atal Innovation Centre IIT\nDelhi Sonipat (20 Sept 2024), GeeksforGeeks Noida (2024), Microsoft campus Gurugram (17 Sept 2022),"
+  },
+  {
+    "chunk_id": 8,
+    "source": "cse_aiml.txt",
+    "page": 2,
+    "text": "Delhi Sonipat (20 Sept 2024), GeeksforGeeks Noida (2024), Microsoft campus Gurugram (17 Sept 2022),\namong others.\n- STC/FDP organised with NITTTR Chandigarh: AI and Cloud-Based Tools for Research (24-28 Mar\n2025); AIML & Data Science for Industry 4.0 (26 Feb-1 Mar 2024).\n- GATE-qualified AIML students are listed for 2022-23, 2023-24 and 2024-25 on the page.\n- Newsletters: https://www.abes.ac.in/pdf/AIML/ (2022-23 to 2024-25, Vol. 1 and 2).\nResearch: the page lists journal papers, conference papers, patents, book chapters and books by faculty\n(2022-2025)."
+  },
+  {
+    "chunk_id": 0,
+    "source": "cse.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | cse.txt | Page 1\nABES Engineering College - CSE\nSOURCE: https://abes.ac.in/cse-department.php\nFETCHED: 2026-09-30\nCATEGORY: departments\nComputer Science & Engineering\nThe Department of Computer Science and Engineering at ABES Engineering College Ghaziabad was\nestablished in the year 2000. The department runs four year full time B.Tech program and two year full\ntime M.Tech program in Computer Science and Engineering with total intake of 1080 students in B.Tech\nand 12 students in M.Tech. The B.Tech program is accredited by National Board of Accreditation (NBA).\nThe department has well qualified, experienced and dynamic faculty members."
+  },
+  {
+    "chunk_id": 1,
+    "source": "cse.txt",
+    "page": 1,
+    "text": "of Accreditation (NBA).\nThe department has well qualified, experienced and dynamic faculty members.\nThe Department has well equipped labs with necessary hardware and software to meet the curriculum and\nindustry requirements. We have Project Lab, Advanced Lab and CoE's to harness the creative and\ninnovative aspiring minds to put their imagination into reality.\nThe Department has E-Cell to create high quality projects and innovative work in order to focus on\nresearch and innovation. The main objective is to enhance the student employability skills through\nin-house training, workshops, guest lectures & alumni lectures from industry & projects based on student\ninterest."
+  },
+  {
+    "chunk_id": 2,
+    "source": "cse.txt",
+    "page": 1,
+    "text": "ing, workshops, guest lectures & alumni lectures from industry & projects based on student\ninterest.\nStudents in the Department undergo In-house training which includes advanced training, skill\nenhancement training, and industrial training to bridge the gap between Industry and Academia.\nThe department has placement of 99% in 2021-22 session with 560 offers. Students have grabbed 231\noffers with the package above 5 LPA and 124 offers above 7 LPA.\nNOTE: The official Programs Offered table (https://www.abes.ac.in/courses-offered.html, fetched\n2026-09-30) lists B.Tech CSE at 900 seats and M.Tech CSE at 12 seats. This department page says\nB.Tech intake 1080."
+  },
+  {
+    "chunk_id": 3,
+    "source": "cse.txt",
+    "page": 1,
+    "text": "ts B.Tech CSE at 900 seats and M.Tech CSE at 12 seats. This department page says\nB.Tech intake 1080. Another older ABES page lists M.Tech intake 6. Prefer the Programs Offered table for\ncurrent seat numbers."
+  },
+  {
+    "chunk_id": 0,
+    "source": "hostel_information.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | hostel_information.txt | Page 1\nABES Engineering College - HOSTEL INFORMATION\nSOURCE: https://www.abes.ac.in/courses-offered.html (Hostel Fee Structure 2026-27)\nFETCHED: 2026-09-30\nCATEGORY: hostel\nBOYS HOSTEL (Rs. per year; all include registration Rs.500 and laundry Rs.3500 for 500 clothes/year)\n- Four seater: Non-AC lodging & boarding 127500, total without security 131500, total with Rs.5000\nrefundable security 136500. AC: 139000 / 143000 / 148000.\n- Triple seater: Non-AC 134000 / 138000 / 143000. AC: 155000 / 159000 / 164000.\n- Double seater: Non-AC 145500 / 149500 / 154500. AC: 168500 / 172500 / 177500.\nGIRLS HOSTEL (AC only)\n- Four seater:"
+  },
+  {
+    "chunk_id": 1,
+    "source": "hostel_information.txt",
+    "page": 1,
+    "text": "Non-AC 145500 / 149500 / 154500. AC: 168500 / 172500 / 177500.\nGIRLS HOSTEL (AC only)\n- Four seater: lodging & boarding 139000, total without security 143000, with security 148000.\n- Triple seater: 155000 / 159000 / 164000.\n- Double seater: 168500 / 172500 / 177500.\nSecurity: Rs.5000 refundable, one-time.\nTERMS\n- Room allotment first-come, first-served.\n- AC rooms allotted only on full occupancy of the room.\n- AC use 5:00 PM to 8:00 AM on working days and round-the-clock on holidays, subject to UPPCL power\nsupply.\n- Desert coolers are prohibited in the Girls' Hostel; allowed in the Boys' Hostel per college policy."
+  },
+  {
+    "chunk_id": 2,
+    "source": "hostel_information.txt",
+    "page": 1,
+    "text": "Desert coolers are prohibited in the Girls' Hostel; allowed in the Boys' Hostel per college policy.\n- Limited rooms with attached bathroom available for an extra Rs.10,000, shared equally among\nroommates.\n- On withdrawal from hostel, only security, mess and laundry charges for unused months are refunded pro\nrata."
+  },
+  {
+    "chunk_id": 0,
+    "source": "college_information.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | college_information.txt | Page 1\nABES Engineering College - COLLEGE INFORMATION\nSOURCE: https://www.abes.ac.in/index.html\nFETCHED: 2026-09-30\nCATEGORY: institutional\nABES Engineering College, Ghaziabad (Uttar Pradesh). Established 2000 under the Society for\nEducational Excellence. The homepage states \"Autonomous College since 2025\" and marks 26 years of\nexcellence.\nAffiliations/approvals shown: AKTU, AICTE, ISO, NBA accredited programmes, NIRF ranking, NAAC\naccreditation (A grade logo).\nABES AT A GLANCE (homepage)\n- Students on campus: 8090\n- Alumni worldwide: 24000+\n- Startups incubated: 54\n- Highest package, placements 2025: 60 LPA; offers in placements 2025: 1692"
+  },
+  {
+    "chunk_id": 1,
+    "source": "college_information.txt",
+    "page": 1,
+    "text": "- Startups incubated: 54\n- Highest package, placements 2025: 60 LPA; offers in placements 2025: 1692\n- Campus: 15.77 acres\n- Recruiters: 500+\n- Scopus publications: 2690+; published patents: 375+; granted patents: 9\n- Consultancy received 2024-25: 15 lakh; sponsored research 2024-25: 107.5 lakh\n- Programmes: B.Tech, M.Tech, MCA, BCA, MBA (MBA details at https://abes.edu.in/)\n- Clubs: 11 in total (homepage highlights TEDx, Genero, TechFest, Utsaah).\n- Notice on homepage: class commencement for all courses 10.09.2026 (9:30 AM-4:30 PM); UPTAC\nphysical reporting B.Tech (R7) and B.Tech LE, MCA & BCA (R3) on 03-07 Sept 2026, 10 AM-4 PM.\nRECOGNITION (homepage)"
+  },
+  {
+    "chunk_id": 2,
+    "source": "college_information.txt",
+    "page": 1,
+    "text": "ing B.Tech (R7) and B.Tech LE, MCA & BCA (R3) on 03-07 Sept 2026, 10 AM-4 PM.\nRECOGNITION (homepage)\n- ABES team took part in the International Aerial Robotics Competition in Georgia, USA, ranked number 1\namong new entries worldwide (per ABES).\n- Participated in a Korean international aerial robot competition, 4th of 48 teams (per ABES).\n- Kumudini Tyagi (2018 CSE graduate) is a Sub Lieutenant in the Indian Navy.\nCONTACT\n- Admission enquiry numbers are listed in admission/courses_offered.txt. Web admin:\nwebadmin@abes.ac.in. Apply online: https://erp.abes.ac.in/onlineenquiry"
+  },
+  {
+    "chunk_id": 0,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | placement_information.txt | Page 1\nABES Engineering College - PLACEMENT INFORMATION\nSOURCES: https://www.abes.ac.in/placement.html and https://www.abes.ac.in/index.html\nFETCHED: 2026-09-30\nCATEGORY: placements\nIndividual student names, enrolment numbers and salaries were left out on purpose.\nSESSION 2025-26 (placement page): 489 companies visited for campus placements; 1289 placements\n(offers on campus); highest package 45 LPA; \"1290 offers in Session 2025-26\" in the page heading.\nHOMEPAGE \"PLACEMENT GLIMPSES 2026\": 1289 placements; highest 45 LPA; median salary 4.50\nLPA; placement 80.06%; 1870 offers; 270 dream offers (CTC 7-9 LPA); 89 super dream offers (CTC 10+\nLPA);"
+  },
+  {
+    "chunk_id": 1,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "placement 80.06%; 1870 offers; 270 dream offers (CTC 7-9 LPA); 89 super dream offers (CTC 10+\nLPA); 444 super offers (CTC 5-7 LPA).\nHOMEPAGE \"AT A GLANCE\" (placements 2025): highest package 60 LPA; 1692 offers; 500+ recruiters.\nNote: the homepage labels differ (2025 vs 2026) and the \"dream\" tier figures are labelled inconsistently.\nQuote the year with every number.\nRECRUITERS: companies offering 20+ LPA include Amazon, Atlassian, Goldman Sachs, Google,\nMicrosoft (logos on page). Companies with 100+ offers: TCS, Cognizant, Infosys, Accenture, Capgemini,\nDXC. Top recruiters shown: Amazon, Microsoft, Accenture, Adobe, Capgemini, Cognizant, TCS, Infosys,\nDXC, Byju's, Cisco, Chetu."
+  },
+  {
+    "chunk_id": 2,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "Amazon, Microsoft, Accenture, Adobe, Capgemini, Cognizant, TCS, Infosys,\nDXC, Byju's, Cisco, Chetu.\nTop internships: Amazon, Atlassian, Autodesk, Google, Google Summer of Code, LinkedIn, Walmart,\nWayfair, KPMG, LG, NEC, Newgen and others.\nDream offers batch 2024-25 (company, LPA, students): Infosys 9.5 (6), TCS 9 (2), Veersa 8.28 (14),\nSamsung R&D 7.65 (11).\nCCPD (Centre for Career Planning & Development): Director Ms. Upasana Tiwari Awasthi\n(+91-8527554019). Associate Directors: Mr. Vivek Kumar Singh, Mr. Ankit Jain, Ms. Ekta Singh.\nManagers: Mr. Varun Sharma, Ms. Kehkashan Khan. Placement coordinator: Mr."
+  },
+  {
+    "chunk_id": 3,
+    "source": "placement_information.txt",
+    "page": 1,
+    "text": "kit Jain, Ms. Ekta Singh.\nManagers: Mr. Varun Sharma, Ms. Kehkashan Khan. Placement coordinator: Mr. Prem Prabhaker."
+  }
+]

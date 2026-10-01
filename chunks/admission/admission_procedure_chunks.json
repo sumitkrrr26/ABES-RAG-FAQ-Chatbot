@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "ABES RAG dataset | admission_procedure.txt | Page 1\nABES Engineering College - ADMISSION PROCEDURE\nSOURCE: https://www.abes.ac.in/courses-offered.html (2026-27 session) and\nhttps://abes.ac.in/admission-procedure.php (older 2024-25 wording, used for M.Tech and MCA details)\nFETCHED: 2026-09-30\nCATEGORY: admission\nB.TECH FIRST YEAR (2026-27)\n- 85% of approved intake through counselling based on JEE-2026 and AICTE/AKTU eligibility for 2026-27.\nCandidates follow www.aktu.ac.in, receive an allotment letter, then report to the allotted college on the\ngiven dates with fees and documents.\n- 15% through direct admission per AICTE/AKTU guidelines and college policy. Apply online at"
+  },
+  {
+    "chunk_id": 1,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "uments.\n- 15% through direct admission per AICTE/AKTU guidelines and college policy. Apply online at\nhttps://erp.abes.ac.in/onlineenquiry ; shortlisting on aggregate in the qualifying exam and JEE score/rank;\nthen interview; seat offered on marks scored in test and interview.\nB.TECH LATERAL ENTRY (2024-25 wording)\n- Up to 10% of approved intake, supernumerary, plus unfilled first-year vacancies. Counselling based on\nCUET (UG). Direct admission: apply online, shortlisting on qualifying-exam aggregate and CUET\nscore/rank, then test and interview.\nMCA (2024-25 wording)\n- 85% via counselling based on CUET (PG); 15% direct admission with shortlisting on qualifying-exam"
+  },
+  {
+    "chunk_id": 2,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "- 85% via counselling based on CUET (PG); 15% direct admission with shortlisting on qualifying-exam\naggregate and CUET score/rank, then test and interview.\nM.TECH (2024-25 wording)\n- Counselling via AKTU entrance exam; direct admission per AICTE/AKTU guidelines and college policy.\n- Financial assistance: GATE-qualified candidates are eligible for AICTE/MHRD PG scholarship.\nNon-GATE candidates admitted directly get a stipend of Rs. 7,000 (1st year) and Rs. 8,000 (2nd year) per\ncollege policy, based on college-level selection. Financial support is also given for publishing research in\njournals and international conference proceedings."
+  },
+  {
+    "chunk_id": 3,
+    "source": "admission_procedure.txt",
+    "page": 1,
+    "text": "support is also given for publishing research in\njournals and international conference proceedings.\nPRE-ENROLLMENT REGISTRATION CHARGES (direct admission, 2026-27)\n- Appeared for entrance exam/counselling: Rs. 1000 (General & OBC of UP / all categories outside UP);\nRs. 500 (SC & ST of UP).\n- Not appeared: Rs. 2300 (General & OBC of UP / all outside UP); Rs. 1150 (SC & ST of UP).\n- Students allotted seats through counselling who already paid Rs. 20,000 or Rs. 12,000 as counselling fee\npay only the remaining academic fee."
+  }
+]

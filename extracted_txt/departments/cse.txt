@@ -1,0 +1,30 @@
+
+
+===== PAGE 1 =====
+
+ABES RAG dataset | cse.txt | Page 1
+ABES Engineering College - CSE
+SOURCE: https://abes.ac.in/cse-department.php
+FETCHED: 2026-09-30
+CATEGORY: departments
+Computer Science & Engineering
+The Department of Computer Science and Engineering at ABES Engineering College Ghaziabad was
+established in the year 2000. The department runs four year full time B.Tech program and two year full
+time M.Tech program in Computer Science and Engineering with total intake of 1080 students in B.Tech
+and 12 students in M.Tech. The B.Tech program is accredited by National Board of Accreditation (NBA).
+The department has well qualified, experienced and dynamic faculty members.
+The Department has well equipped labs with necessary hardware and software to meet the curriculum and
+industry requirements. We have Project Lab, Advanced Lab and CoE's to harness the creative and
+innovative aspiring minds to put their imagination into reality.
+The Department has E-Cell to create high quality projects and innovative work in order to focus on
+research and innovation. The main objective is to enhance the student employability skills through
+in-house training, workshops, guest lectures & alumni lectures from industry & projects based on student
+interest.
+Students in the Department undergo In-house training which includes advanced training, skill
+enhancement training, and industrial training to bridge the gap between Industry and Academia.
+The department has placement of 99% in 2021-22 session with 560 offers. Students have grabbed 231
+offers with the package above 5 LPA and 124 offers above 7 LPA.
+NOTE: The official Programs Offered table (https://www.abes.ac.in/courses-offered.html, fetched
+2026-09-30) lists B.Tech CSE at 900 seats and M.Tech CSE at 12 seats. This department page says
+B.Tech intake 1080. Another older ABES page lists M.Tech intake 6. Prefer the Programs Offered table for
+current seat numbers.
